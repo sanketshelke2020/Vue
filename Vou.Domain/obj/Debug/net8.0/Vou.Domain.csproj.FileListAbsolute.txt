@@ -1,0 +1,11 @@
+C:\E\Learn\Vou\Vou.Domain\bin\Debug\net8.0\Vou.Domain.deps.json
+C:\E\Learn\Vou\Vou.Domain\bin\Debug\net8.0\Vou.Domain.dll
+C:\E\Learn\Vou\Vou.Domain\bin\Debug\net8.0\Vou.Domain.pdb
+C:\E\Learn\Vou\Vou.Domain\obj\Debug\net8.0\Vou.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\E\Learn\Vou\Vou.Domain\obj\Debug\net8.0\Vou.Domain.AssemblyInfoInputs.cache
+C:\E\Learn\Vou\Vou.Domain\obj\Debug\net8.0\Vou.Domain.AssemblyInfo.cs
+C:\E\Learn\Vou\Vou.Domain\obj\Debug\net8.0\Vou.Domain.csproj.CoreCompileInputs.cache
+C:\E\Learn\Vou\Vou.Domain\obj\Debug\net8.0\Vou.Domain.dll
+C:\E\Learn\Vou\Vou.Domain\obj\Debug\net8.0\refint\Vou.Domain.dll
+C:\E\Learn\Vou\Vou.Domain\obj\Debug\net8.0\Vou.Domain.pdb
+C:\E\Learn\Vou\Vou.Domain\obj\Debug\net8.0\ref\Vou.Domain.dll
