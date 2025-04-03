@@ -16,7 +16,6 @@ C:\E\Learn\Vou\Vou.API\obj\Debug\net8.0\Vou.API.GeneratedMSBuildEditorConfig.edi
 C:\E\Learn\Vou\Vou.API\obj\Debug\net8.0\Vou.API.AssemblyInfoInputs.cache
 C:\E\Learn\Vou\Vou.API\obj\Debug\net8.0\Vou.API.AssemblyInfo.cs
 C:\E\Learn\Vou\Vou.API\obj\Debug\net8.0\Vou.API.csproj.CoreCompileInputs.cache
-C:\E\Learn\Vou\Vou.API\obj\Debug\net8.0\Vou.API.MvcApplicationPartsAssemblyInfo.cs
 C:\E\Learn\Vou\Vou.API\obj\Debug\net8.0\Vou.API.MvcApplicationPartsAssemblyInfo.cache
 C:\E\Learn\Vou\Vou.API\obj\Debug\net8.0\staticwebassets.build.json
 C:\E\Learn\Vou\Vou.API\obj\Debug\net8.0\staticwebassets.development.json
@@ -36,3 +35,19 @@ C:\E\Learn\Vou\Vou.API\bin\Debug\net8.0\Vou.Application.dll
 C:\E\Learn\Vou\Vou.API\bin\Debug\net8.0\Vou.Domain.dll
 C:\E\Learn\Vou\Vou.API\bin\Debug\net8.0\Vou.Application.pdb
 C:\E\Learn\Vou\Vou.API\bin\Debug\net8.0\Vou.Domain.pdb
+C:\E\Learn\Vou\Vou.API\bin\Debug\net8.0\AutoMapper.dll
+C:\E\Learn\Vou\Vou.API\obj\Debug\net8.0\Vou.API.sourcelink.json
+C:\E\Learn\Vou\Vou.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\E\Learn\Vou\Vou.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\E\Learn\Vou\Vou.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\E\Learn\Vou\Vou.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\E\Learn\Vou\Vou.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\E\Learn\Vou\Vou.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\E\Learn\Vou\Vou.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\E\Learn\Vou\Vou.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\E\Learn\Vou\Vou.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\E\Learn\Vou\Vou.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\E\Learn\Vou\Vou.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\E\Learn\Vou\Vou.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\E\Learn\Vou\Vou.API\bin\Debug\net8.0\Vou.Infrastructure.dll
+C:\E\Learn\Vou\Vou.API\bin\Debug\net8.0\Vou.Infrastructure.pdb

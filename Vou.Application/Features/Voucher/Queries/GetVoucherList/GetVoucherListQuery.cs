@@ -10,5 +10,6 @@ namespace Vou.Application.Features.Voucher.Queries.GetVoucherList
 {
     public class GetVoucherListQuery : IRequest<List<GetVoucherListDto>>
     {
+
     }
 }

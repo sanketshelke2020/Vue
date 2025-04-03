@@ -9,3 +9,4 @@ C:\E\Learn\Vou\Vou.Domain\obj\Debug\net8.0\Vou.Domain.dll
 C:\E\Learn\Vou\Vou.Domain\obj\Debug\net8.0\refint\Vou.Domain.dll
 C:\E\Learn\Vou\Vou.Domain\obj\Debug\net8.0\Vou.Domain.pdb
 C:\E\Learn\Vou\Vou.Domain\obj\Debug\net8.0\ref\Vou.Domain.dll
+C:\E\Learn\Vou\Vou.Domain\obj\Debug\net8.0\Vou.Domain.sourcelink.json

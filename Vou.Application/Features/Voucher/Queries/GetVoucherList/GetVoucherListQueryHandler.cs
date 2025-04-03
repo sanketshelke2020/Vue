@@ -1,46 +1,30 @@
-﻿using MediatR;
+﻿using AutoMapper;
+using MediatR;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
+using Vou.Application.Contracts;
 
 namespace Vou.Application.Features.Voucher.Queries.GetVoucherList
 {
     public class GetVoucherListQueryHandler : IRequestHandler<GetVoucherListQuery,List<GetVoucherListDto>>
     {
-        Task<List<GetVoucherListDto>> IRequestHandler<GetVoucherListQuery, List<GetVoucherListDto>>.Handle(GetVoucherListQuery request, CancellationToken cancellationToken)
-        {
-            var vouchers = new List<GetVoucherListDto>
-    {
-        new GetVoucherListDto
-        {
-            VoucherNumber = 1,
-            Name = "Flipkart",
-            Description = "Flipkart 100 Rupees Voucher"
-        },
-        new GetVoucherListDto
-        {
-            VoucherNumber = 2,
-            Name = "Amazon",
-            Description = "Amazon 100 Rupees Voucher"
-        },
-        new GetVoucherListDto
-        {
-            VoucherNumber = 3,
-            Name = "Myntra",
-            Description = "Myntra 50 Rupees Discount"
-        },
-        new GetVoucherListDto
-        {
-            VoucherNumber = 4,
-            Name = "Swiggy",
-            Description = "Swiggy 200 Rupees Off"
-        }
-    };
+        private readonly IVoucherRepository _voucherRepository;
+        private readonly IMapper _mapper;
 
-            return Task.FromResult(vouchers);
+        public GetVoucherListQueryHandler(IVoucherRepository voucherRepository,IMapper mapper)
+        {
+            _voucherRepository = voucherRepository;
+            this._mapper = mapper;
+        }
+         async Task<List<GetVoucherListDto>> IRequestHandler<GetVoucherListQuery, List<GetVoucherListDto>>.Handle(GetVoucherListQuery request, CancellationToken cancellationToken)
+        {
+            var voucher = await _voucherRepository.GetVoucherList();
+            var response = _mapper.Map<List<GetVoucherListDto>>(voucher);
+            return response;
         }
     }
 }

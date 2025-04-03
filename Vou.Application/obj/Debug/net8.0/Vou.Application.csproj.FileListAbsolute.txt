@@ -13,3 +13,4 @@ C:\E\Learn\Vou\Vou.Application\obj\Debug\net8.0\Vou.Application.dll
 C:\E\Learn\Vou\Vou.Application\obj\Debug\net8.0\refint\Vou.Application.dll
 C:\E\Learn\Vou\Vou.Application\obj\Debug\net8.0\Vou.Application.pdb
 C:\E\Learn\Vou\Vou.Application\obj\Debug\net8.0\ref\Vou.Application.dll
+C:\E\Learn\Vou\Vou.Application\obj\Debug\net8.0\Vou.Application.sourcelink.json

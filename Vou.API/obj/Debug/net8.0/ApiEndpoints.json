@@ -10,24 +10,19 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Vou.API.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
-    "HttpMethod": "GET",
+    "ContainingType": "Vou.API.Controllers.VoucherController",
+    "Method": "CreateVoucher",
+    "RelativePath": "api/Voucher",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
+    "Parameters": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[Vou.API.WeatherForecast, Vou.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
+        "Name": "createVoucherCommand",
+        "Type": "Vou.Application.Features.Voucher.Commands.CreateVoucher.CreateVoucherCommand",
+        "IsRequired": true
       }
     ],
-    "EndpointName": "GetWeatherForecast"
+    "ReturnTypes": []
   }
 ]
