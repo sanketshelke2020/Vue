@@ -10,3 +10,15 @@ C:\E\Learn\Vou\Vou.Domain\obj\Debug\net8.0\refint\Vou.Domain.dll
 C:\E\Learn\Vou\Vou.Domain\obj\Debug\net8.0\Vou.Domain.pdb
 C:\E\Learn\Vou\Vou.Domain\obj\Debug\net8.0\ref\Vou.Domain.dll
 C:\E\Learn\Vou\Vou.Domain\obj\Debug\net8.0\Vou.Domain.sourcelink.json
+C:\Users\sanke\dev\Learn\Vue\Vou.Domain\bin\Debug\net8.0\Vou.Domain.deps.json
+C:\Users\sanke\dev\Learn\Vue\Vou.Domain\bin\Debug\net8.0\Vou.Domain.dll
+C:\Users\sanke\dev\Learn\Vue\Vou.Domain\bin\Debug\net8.0\Vou.Domain.pdb
+C:\Users\sanke\dev\Learn\Vue\Vou.Domain\obj\Debug\net8.0\Vou.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanke\dev\Learn\Vue\Vou.Domain\obj\Debug\net8.0\Vou.Domain.AssemblyInfoInputs.cache
+C:\Users\sanke\dev\Learn\Vue\Vou.Domain\obj\Debug\net8.0\Vou.Domain.AssemblyInfo.cs
+C:\Users\sanke\dev\Learn\Vue\Vou.Domain\obj\Debug\net8.0\Vou.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sanke\dev\Learn\Vue\Vou.Domain\obj\Debug\net8.0\Vou.Domain.sourcelink.json
+C:\Users\sanke\dev\Learn\Vue\Vou.Domain\obj\Debug\net8.0\Vou.Domain.dll
+C:\Users\sanke\dev\Learn\Vue\Vou.Domain\obj\Debug\net8.0\refint\Vou.Domain.dll
+C:\Users\sanke\dev\Learn\Vue\Vou.Domain\obj\Debug\net8.0\Vou.Domain.pdb
+C:\Users\sanke\dev\Learn\Vue\Vou.Domain\obj\Debug\net8.0\ref\Vou.Domain.dll

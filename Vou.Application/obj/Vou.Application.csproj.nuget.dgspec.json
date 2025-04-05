@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\E\\Learn\\Vou\\Vou.Application\\Vou.Application.csproj": {}
+    "C:\\Users\\sanke\\dev\\Learn\\Vue\\Vou.Application\\Vou.Application.csproj": {}
   },
   "projects": {
-    "C:\\E\\Learn\\Vou\\Vou.Application\\Vou.Application.csproj": {
+    "C:\\Users\\sanke\\dev\\Learn\\Vue\\Vou.Application\\Vou.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\E\\Learn\\Vou\\Vou.Application\\Vou.Application.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\dev\\Learn\\Vue\\Vou.Application\\Vou.Application.csproj",
         "projectName": "Vou.Application",
-        "projectPath": "C:\\E\\Learn\\Vou\\Vou.Application\\Vou.Application.csproj",
-        "packagesPath": "C:\\Users\\SShelke\\.nuget\\packages\\",
-        "outputPath": "C:\\E\\Learn\\Vou\\Vou.Application\\obj\\",
+        "projectPath": "C:\\Users\\sanke\\dev\\Learn\\Vue\\Vou.Application\\Vou.Application.csproj",
+        "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sanke\\dev\\Learn\\Vue\\Vou.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SShelke\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sanke\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,15 +26,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\E\\Learn\\Vou\\Vou.Domain\\Vou.Domain.csproj": {
-                "projectPath": "C:\\E\\Learn\\Vou\\Vou.Domain\\Vou.Domain.csproj"
+              "C:\\Users\\sanke\\dev\\Learn\\Vue\\Vou.Domain\\Vou.Domain.csproj": {
+                "projectPath": "C:\\Users\\sanke\\dev\\Learn\\Vue\\Vou.Domain\\Vou.Domain.csproj"
               }
             }
           }
@@ -48,7 +47,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -79,24 +79,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\E\\Learn\\Vou\\Vou.Domain\\Vou.Domain.csproj": {
+    "C:\\Users\\sanke\\dev\\Learn\\Vue\\Vou.Domain\\Vou.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\E\\Learn\\Vou\\Vou.Domain\\Vou.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\sanke\\dev\\Learn\\Vue\\Vou.Domain\\Vou.Domain.csproj",
         "projectName": "Vou.Domain",
-        "projectPath": "C:\\E\\Learn\\Vou\\Vou.Domain\\Vou.Domain.csproj",
-        "packagesPath": "C:\\Users\\SShelke\\.nuget\\packages\\",
-        "outputPath": "C:\\E\\Learn\\Vou\\Vou.Domain\\obj\\",
+        "projectPath": "C:\\Users\\sanke\\dev\\Learn\\Vue\\Vou.Domain\\Vou.Domain.csproj",
+        "packagesPath": "C:\\Users\\sanke\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sanke\\dev\\Learn\\Vue\\Vou.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SShelke\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sanke\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -105,7 +105,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -123,7 +122,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -144,7 +144,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

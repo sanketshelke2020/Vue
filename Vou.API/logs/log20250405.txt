@@ -1,0 +1,162 @@
+2025-04-05 16:56:43.382 +05:30 [INF] Now listening on: http://localhost:5119
+2025-04-05 16:56:43.403 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-05 16:56:43.403 +05:30 [INF] Hosting environment: Development
+2025-04-05 16:56:43.403 +05:30 [INF] Content root path: C:\Users\sanke\dev\Learn\Vue\Vou.API
+2025-04-05 16:57:53.032 +05:30 [INF] Application is shutting down...
+2025-04-05 16:58:03.816 +05:30 [INF] Now listening on: http://localhost:5119
+2025-04-05 16:58:03.837 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-05 16:58:03.837 +05:30 [INF] Hosting environment: Development
+2025-04-05 16:58:03.838 +05:30 [INF] Content root path: C:\Users\sanke\dev\Learn\Vue\Vou.API
+2025-04-05 16:58:16.551 +05:30 [INF] Application is shutting down...
+2025-04-05 16:58:23.928 +05:30 [INF] Now listening on: http://localhost:5119
+2025-04-05 16:58:23.948 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-05 16:58:23.949 +05:30 [INF] Hosting environment: Development
+2025-04-05 16:58:23.949 +05:30 [INF] Content root path: C:\Users\sanke\dev\Learn\Vue\Vou.API
+2025-04-05 16:58:56.791 +05:30 [INF] Now listening on: http://localhost:5119
+2025-04-05 16:58:56.814 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-05 16:58:56.814 +05:30 [INF] Hosting environment: Development
+2025-04-05 16:58:56.814 +05:30 [INF] Content root path: C:\Users\sanke\dev\Learn\Vue\Vou.API
+2025-04-05 16:59:17.299 +05:30 [INF] Application is shutting down...
+2025-04-05 16:59:25.045 +05:30 [INF] Now listening on: https://localhost:7121
+2025-04-05 16:59:25.064 +05:30 [INF] Now listening on: http://localhost:5119
+2025-04-05 16:59:25.065 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-05 16:59:25.065 +05:30 [INF] Hosting environment: Development
+2025-04-05 16:59:25.065 +05:30 [INF] Content root path: C:\Users\sanke\dev\Learn\Vue\Vou.API
+2025-04-05 16:59:30.589 +05:30 [INF] Application is shutting down...
+2025-04-05 16:59:50.874 +05:30 [INF] Now listening on: https://localhost:7121
+2025-04-05 16:59:50.896 +05:30 [INF] Now listening on: http://localhost:5119
+2025-04-05 16:59:50.898 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-05 16:59:50.898 +05:30 [INF] Hosting environment: Development
+2025-04-05 16:59:50.898 +05:30 [INF] Content root path: C:\Users\sanke\dev\Learn\Vue\Vou.API
+2025-04-05 16:59:57.262 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7121/swagger/index.html - null null
+2025-04-05 16:59:57.335 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7121/swagger/index.html - 200 null text/html;charset=utf-8 73.9014ms
+2025-04-05 16:59:57.455 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7121/swagger/v1/swagger.json - null null
+2025-04-05 16:59:57.509 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7121/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 53.5648ms
+2025-04-05 17:00:06.592 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7121/api/Voucher - null null
+2025-04-05 17:00:06.596 +05:30 [INF] Executing endpoint 'Vou.API.Controllers.VoucherController.GetVouchers (Vou.API)'
+2025-04-05 17:00:06.612 +05:30 [INF] Route matched with {action = "GetVouchers", controller = "Voucher"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetVouchers() on controller Vou.API.Controllers.VoucherController (Vou.API).
+2025-04-05 17:00:06.613 +05:30 [INF] GetVouchers called
+2025-04-05 17:00:06.975 +05:30 [INF] GetVouchers End
+2025-04-05 17:00:06.978 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Vou.Application.Features.Voucher.Queries.GetVoucherList.GetVoucherListDto, Vou.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-04-05 17:00:07.001 +05:30 [INF] Executed action Vou.API.Controllers.VoucherController.GetVouchers (Vou.API) in 387.63ms
+2025-04-05 17:00:07.001 +05:30 [INF] Executed endpoint 'Vou.API.Controllers.VoucherController.GetVouchers (Vou.API)'
+2025-04-05 17:00:07.004 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7121/api/Voucher - 200 null application/json; charset=utf-8 411.3488ms
+2025-04-05 17:01:11.131 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7121/api/Voucher - application/json 67
+2025-04-05 17:01:11.132 +05:30 [INF] Executing endpoint 'Vou.API.Controllers.VoucherController.CreateVoucher (Vou.API)'
+2025-04-05 17:01:11.138 +05:30 [INF] Route matched with {action = "CreateVoucher", controller = "Voucher"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateVoucher(Vou.Application.Features.Voucher.Commands.CreateVoucher.CreateVoucherCommand) on controller Vou.API.Controllers.VoucherController (Vou.API).
+2025-04-05 17:01:11.222 +05:30 [INF] Saved 1 entities to in-memory store.
+2025-04-05 17:01:11.225 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Int32'.
+2025-04-05 17:01:11.226 +05:30 [INF] Executed action Vou.API.Controllers.VoucherController.CreateVoucher (Vou.API) in 88.5479ms
+2025-04-05 17:01:11.226 +05:30 [INF] Executed endpoint 'Vou.API.Controllers.VoucherController.CreateVoucher (Vou.API)'
+2025-04-05 17:01:11.226 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7121/api/Voucher - 200 null application/json; charset=utf-8 95.1433ms
+2025-04-05 17:02:12.871 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7121/api/Voucher - application/json 67
+2025-04-05 17:02:12.872 +05:30 [INF] Executing endpoint 'Vou.API.Controllers.VoucherController.CreateVoucher (Vou.API)'
+2025-04-05 17:02:12.872 +05:30 [INF] Route matched with {action = "CreateVoucher", controller = "Voucher"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateVoucher(Vou.Application.Features.Voucher.Commands.CreateVoucher.CreateVoucherCommand) on controller Vou.API.Controllers.VoucherController (Vou.API).
+2025-04-05 17:02:12.901 +05:30 [INF] Saved 1 entities to in-memory store.
+2025-04-05 17:02:12.901 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Int32'.
+2025-04-05 17:02:12.901 +05:30 [INF] Executed action Vou.API.Controllers.VoucherController.CreateVoucher (Vou.API) in 29.2597ms
+2025-04-05 17:02:12.901 +05:30 [INF] Executed endpoint 'Vou.API.Controllers.VoucherController.CreateVoucher (Vou.API)'
+2025-04-05 17:02:12.901 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7121/api/Voucher - 200 null application/json; charset=utf-8 29.7638ms
+2025-04-05 17:02:36.357 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7121/swagger/index.html - null null
+2025-04-05 17:02:36.358 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7121/swagger/index.html - 200 null text/html;charset=utf-8 0.8154ms
+2025-04-05 17:02:36.427 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7121/swagger/v1/swagger.json - null null
+2025-04-05 17:02:36.428 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7121/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 1.4637ms
+2025-04-05 17:02:45.113 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7121/api/Voucher - application/json 69
+2025-04-05 17:02:45.113 +05:30 [INF] Executing endpoint 'Vou.API.Controllers.VoucherController.CreateVoucher (Vou.API)'
+2025-04-05 17:02:45.113 +05:30 [INF] Route matched with {action = "CreateVoucher", controller = "Voucher"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateVoucher(Vou.Application.Features.Voucher.Commands.CreateVoucher.CreateVoucherCommand) on controller Vou.API.Controllers.VoucherController (Vou.API).
+2025-04-05 17:02:45.116 +05:30 [INF] Saved 1 entities to in-memory store.
+2025-04-05 17:02:45.116 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Int32'.
+2025-04-05 17:02:45.116 +05:30 [INF] Executed action Vou.API.Controllers.VoucherController.CreateVoucher (Vou.API) in 2.5252ms
+2025-04-05 17:02:45.116 +05:30 [INF] Executed endpoint 'Vou.API.Controllers.VoucherController.CreateVoucher (Vou.API)'
+2025-04-05 17:02:45.116 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7121/api/Voucher - 200 null application/json; charset=utf-8 2.9547ms
+2025-04-05 17:03:37.421 +05:30 [INF] Application is shutting down...
+2025-04-05 17:03:40.827 +05:30 [INF] Now listening on: https://localhost:7121
+2025-04-05 17:03:40.845 +05:30 [INF] Now listening on: http://localhost:5119
+2025-04-05 17:03:40.847 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-05 17:03:40.847 +05:30 [INF] Hosting environment: Development
+2025-04-05 17:03:40.847 +05:30 [INF] Content root path: C:\Users\sanke\dev\Learn\Vue\Vou.API
+2025-04-05 17:03:46.776 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7121/swagger/index.html - null null
+2025-04-05 17:03:46.849 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7121/swagger/index.html - 200 null text/html;charset=utf-8 73.9549ms
+2025-04-05 17:03:46.913 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7121/swagger/v1/swagger.json - null null
+2025-04-05 17:03:46.967 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7121/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 53.841ms
+2025-04-05 17:03:54.293 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7121/api/Voucher - application/json 69
+2025-04-05 17:03:54.297 +05:30 [INF] Executing endpoint 'Vou.API.Controllers.VoucherController.CreateVoucher (Vou.API)'
+2025-04-05 17:03:54.313 +05:30 [INF] Route matched with {action = "CreateVoucher", controller = "Voucher"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateVoucher(Vou.Application.Features.Voucher.Commands.CreateVoucher.CreateVoucherCommand) on controller Vou.API.Controllers.VoucherController (Vou.API).
+2025-04-05 17:03:54.347 +05:30 [INF] CreateVoucher called
+2025-04-05 17:03:54.662 +05:30 [INF] Saved 1 entities to in-memory store.
+2025-04-05 17:03:54.668 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Int32'.
+2025-04-05 17:03:54.673 +05:30 [INF] Executed action Vou.API.Controllers.VoucherController.CreateVoucher (Vou.API) in 358.0685ms
+2025-04-05 17:03:54.673 +05:30 [INF] Executed endpoint 'Vou.API.Controllers.VoucherController.CreateVoucher (Vou.API)'
+2025-04-05 17:03:54.674 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7121/api/Voucher - 200 null application/json; charset=utf-8 381.3861ms
+2025-04-05 17:05:56.706 +05:30 [INF] Application is shutting down...
+2025-04-05 17:06:45.382 +05:30 [INF] Now listening on: https://localhost:7121
+2025-04-05 17:06:45.402 +05:30 [INF] Now listening on: http://localhost:5119
+2025-04-05 17:06:45.404 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-05 17:06:45.404 +05:30 [INF] Hosting environment: Development
+2025-04-05 17:06:45.404 +05:30 [INF] Content root path: C:\Users\sanke\dev\Learn\Vue\Vou.API
+2025-04-05 17:06:49.444 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7121/swagger/index.html - null null
+2025-04-05 17:06:49.519 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7121/swagger/index.html - 200 null text/html;charset=utf-8 75.686ms
+2025-04-05 17:06:49.595 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7121/swagger/v1/swagger.json - null null
+2025-04-05 17:06:49.653 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7121/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 57.5089ms
+2025-04-05 17:07:06.587 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7121/api/Voucher - application/json 73
+2025-04-05 17:07:06.591 +05:30 [INF] Executing endpoint 'Vou.API.Controllers.VoucherController.CreateVoucher (Vou.API)'
+2025-04-05 17:07:06.608 +05:30 [INF] Route matched with {action = "CreateVoucher", controller = "Voucher"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateVoucher(Vou.Application.Features.Voucher.Commands.CreateVoucher.CreateVoucherCommand) on controller Vou.API.Controllers.VoucherController (Vou.API).
+2025-04-05 17:07:06.708 +05:30 [INF] CreateVoucher called
+2025-04-05 17:07:07.032 +05:30 [INF] Saved 1 entities to in-memory store.
+2025-04-05 17:07:07.038 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Int32'.
+2025-04-05 17:07:07.043 +05:30 [INF] Executed action Vou.API.Controllers.VoucherController.CreateVoucher (Vou.API) in 433.1343ms
+2025-04-05 17:07:07.043 +05:30 [INF] Executed endpoint 'Vou.API.Controllers.VoucherController.CreateVoucher (Vou.API)'
+2025-04-05 17:07:07.045 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7121/api/Voucher - 200 null application/json; charset=utf-8 457.7244ms
+2025-04-05 17:08:45.810 +05:30 [INF] Application is shutting down...
+2025-04-05 17:08:48.861 +05:30 [INF] Now listening on: https://localhost:7121
+2025-04-05 17:08:48.880 +05:30 [INF] Now listening on: http://localhost:5119
+2025-04-05 17:08:48.882 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-05 17:08:48.882 +05:30 [INF] Hosting environment: Development
+2025-04-05 17:08:48.882 +05:30 [INF] Content root path: C:\Users\sanke\dev\Learn\Vue\Vou.API
+2025-04-05 17:08:51.945 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7121/swagger/index.html - null null
+2025-04-05 17:08:52.022 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7121/swagger/index.html - 200 null text/html;charset=utf-8 78.5699ms
+2025-04-05 17:08:52.091 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7121/swagger/v1/swagger.json - null null
+2025-04-05 17:08:52.147 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7121/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 56.1996ms
+2025-04-05 17:09:05.872 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7121/api/Voucher - application/json 73
+2025-04-05 17:09:05.876 +05:30 [INF] Executing endpoint 'Vou.API.Controllers.VoucherController.CreateVoucher (Vou.API)'
+2025-04-05 17:09:05.894 +05:30 [INF] Route matched with {action = "CreateVoucher", controller = "Voucher"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateVoucher(Vou.Application.Features.Voucher.Commands.CreateVoucher.CreateVoucherCommand) on controller Vou.API.Controllers.VoucherController (Vou.API).
+2025-04-05 17:09:05.966 +05:30 [INF] CreateVoucher called RequestBody : {"Name":"sanket","Description":"shelke","VoucherNumber":100}
+2025-04-05 17:09:06.282 +05:30 [INF] Saved 1 entities to in-memory store.
+2025-04-05 17:09:06.287 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Int32'.
+2025-04-05 17:09:06.292 +05:30 [INF] Executed action Vou.API.Controllers.VoucherController.CreateVoucher (Vou.API) in 396.2811ms
+2025-04-05 17:09:06.292 +05:30 [INF] Executed endpoint 'Vou.API.Controllers.VoucherController.CreateVoucher (Vou.API)'
+2025-04-05 17:09:06.294 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7121/api/Voucher - 200 null application/json; charset=utf-8 422.3323ms
+2025-04-05 17:09:45.418 +05:30 [INF] Application is shutting down...
+2025-04-05 17:10:24.769 +05:30 [INF] CreateVoucher called RequestBody : {"Name":"sanket","Description":"shelke","VoucherNumber":100}
+2025-04-05 17:10:56.318 +05:30 [INF] CreateVoucher called RequestBody : {"Name":"sanket","Description":"shelke","VoucherNumber":100}
+2025-04-05 17:11:02.931 +05:30 [INF] GetVouchers called
+2025-04-05 17:11:03.015 +05:30 [INF] GetVouchers End
+2025-04-05 17:12:57.338 +05:30 [INF] CreateVoucher called RequestBody : {"Name":"sanket","Description":"shelke","VoucherNumber":100}
+2025-04-05 17:12:57.358 +05:30 [ERR] Error occurred while creating voucher: Voucher Controller Exception
+System.Exception: Voucher Controller Exception
+   at Vou.API.Controllers.VoucherController.CreateVoucher(CreateVoucherCommand createVoucherCommand) in C:\Users\sanke\dev\Learn\Vue\Vou.API\Controllers\VoucherController.cs:line 37
+2025-04-05 17:13:43.595 +05:30 [INF] CreateVoucher called RequestBody : {"Name":"sanket","Description":"shelke","VoucherNumber":100}
+2025-04-05 17:16:50.298 +05:30 [INF] CreateVoucher called RequestBody : {"Name":"sanket","Description":"shelke","VoucherNumber":100}
+2025-04-05 17:17:08.538 +05:30 [INF] CreateVoucher called RequestBody : {"Name":"sanket","Description":"shelke","VoucherNumber":100}
+2025-04-05 17:17:10.291 +05:30 [INF] CreateVoucher called RequestBody : {"Name":"sanket","Description":"shelke","VoucherNumber":100}
+2025-04-05 17:17:10.770 +05:30 [INF] CreateVoucher called RequestBody : {"Name":"sanket","Description":"shelke","VoucherNumber":100}
+2025-04-05 17:17:19.422 +05:30 [INF] CreateVoucher called RequestBody : {"Name":"jaidas","Description":"shelke","VoucherNumber":100}
+2025-04-05 17:17:19.849 +05:30 [INF] CreateVoucher called RequestBody : {"Name":"jaidas","Description":"shelke","VoucherNumber":100}
+2025-04-05 17:17:20.037 +05:30 [INF] CreateVoucher called RequestBody : {"Name":"jaidas","Description":"shelke","VoucherNumber":100}
+2025-04-05 17:17:20.205 +05:30 [INF] CreateVoucher called RequestBody : {"Name":"jaidas","Description":"shelke","VoucherNumber":100}
+2025-04-05 17:17:32.764 +05:30 [INF] CreateVoucher called RequestBody : {"Name":"jaidsas","Description":"df","VoucherNumber":100}
+2025-04-05 17:19:59.970 +05:30 [INF] CreateVoucher called RequestBody : {"Name":"raj","Description":"tag","VoucherNumber":10}
+2025-04-05 17:21:22.428 +05:30 [INF] GetVouchers called
+2025-04-05 17:21:22.735 +05:30 [INF] GetVouchers End
+2025-04-05 17:21:32.634 +05:30 [INF] GetVouchers called
+2025-04-05 17:21:32.650 +05:30 [INF] GetVouchers End
+2025-04-05 17:23:21.836 +05:30 [ERR] This is a critical error message to test logging.
+2025-04-05 17:23:21.836 +05:30 [INF] GetVouchers called
+2025-04-05 17:23:21.864 +05:30 [INF] GetVouchers End
+2025-04-05 17:23:29.757 +05:30 [ERR] This is a critical error message to test logging.
+2025-04-05 17:23:29.757 +05:30 [INF] GetVouchers called
+2025-04-05 17:23:29.758 +05:30 [INF] GetVouchers End
+2025-04-05 17:23:57.554 +05:30 [ERR] This is a critical error message to test logging.
+2025-04-05 17:23:57.554 +05:30 [INF] GetVouchers called
+2025-04-05 17:23:57.554 +05:30 [INF] GetVouchers End
+2025-04-05 17:26:49.819 +05:30 [ERR] This is a critical error message to test logging.

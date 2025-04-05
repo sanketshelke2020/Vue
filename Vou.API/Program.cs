@@ -4,6 +4,13 @@ using Vou.Application.Contracts;
 using Vou.Application.Features.Voucher.Queries.GetVoucherList;
 using Vou.Infrastructure.Context;
 using Vou.Infrastructure.Repository;
+using Serilog;
+
+// Setup Serilog
+Log.Logger = new LoggerConfiguration()
+    .MinimumLevel.Error()
+    .WriteTo.File("logs/log.txt", rollingInterval: RollingInterval.Day)
+    .CreateLogger();
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,6 +25,8 @@ builder.Services.AddDbContext<AppDbContext>(options => options.UseInMemoryDataba
 builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblyContaining(typeof(GetVoucherListQueryHandler)));
 builder.Services.AddAutoMapper(typeof(MappingProfile));
 builder.Services.AddScoped<IVoucherRepository,VoucherRepository>();
+
+builder.Host.UseSerilog();
 
 var app = builder.Build();
 
